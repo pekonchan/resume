@@ -14,7 +14,7 @@
 ## 专业技能
 - 熟悉Vue.js + Vue CLI + Vuex + Vue Router框架开发项目，能够独立开发项目，习惯使用`mixins, components`复合应用代码。
 - 熟悉使用SCSS开发项目，有一套自身总结的样式类名命名规范，推广团队项目中应用。
-- 习惯Git，Jira等工具进行团队开发，有与PM、UI、UE的开发协作经验。积累一定的UI|UE设计经验。
+- 习惯Git，Jira等工具进行团队开发，有与PM、UI、UE的开发协作经验。积累一定的UI、UE设计经验。
 - 能够独立开发chrome extension。
 - 熟悉 JavaScript + HTML + CSS3；掌握 ES6 常用语法；
 - 能够使用webpack工具对项目进行构建优化和打包，了解过Node.js，便于编写构建脚本。
